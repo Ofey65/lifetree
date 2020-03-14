@@ -1,0 +1,13 @@
+nav {
+    background-color: antiquewhite;
+}
+
+aside {
+    position: fixed;
+    background-color: beige;
+}
+
+ul li {
+    display: inline-block;
+    margin-right: 30px;
+}
